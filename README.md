@@ -1,6 +1,6 @@
 # Chat Application Frontend / Backend.
 
-Welcome to the Chat Application Frontend repository! This application allows users to engage in real-time chat conversations.
+Welcome to the Chat Application repository! This application allows users to engage in real-time chat conversations.
 
 ## Getting Started
 
