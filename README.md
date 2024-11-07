@@ -24,5 +24,5 @@ This is a **React Native chat application** that allows users to communicate in 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/react-native-chat-app.git
+   git clone [https://github.com/yourusername/react-native-chat-app.git]
    cd react-native-chat-app
