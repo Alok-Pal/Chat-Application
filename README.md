@@ -1,22 +1,28 @@
-# Chat Application Frontend / Backend.
+# React Native Chat Application
 
-Welcome to the Chat Application repository! This application allows users to engage in real-time chat conversations.
+![React Native](https://img.shields.io/badge/React%20Native-v0.64-green) ![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime%20Chat-blue) ![Expo](https://img.shields.io/badge/Expo-Client%20App-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
-## Getting Started
+## Project Overview
 
-To run this application locally on your machine, follow these steps:
+This is a **React Native chat application** that allows users to communicate in real-time using **Socket.IO** and **Expo**. The application enables users to interact with different people, create groups, and engage in group chats. Users must authenticate themselves via **login or signup** before accessing the app, ensuring secure and personalized communication.
 
-### Prerequisites
+### Key Features
+- **Real-Time Chat**: Users can chat in real-time with other users.
+- **Group Chats**: Users can create and join groups to have discussions with multiple participants.
+- **User Authentication**: Users must log in or sign up to access the chat application.
+- **Expo & Socket.IO Integration**: The app uses **Expo** for quick development and **Socket.IO** for seamless real-time communication.
 
-Make sure you have the following installed on your machine:
+## Technologies Used
 
-- [Node.js](https://nodejs.org/) - Node.js is required to run npm commands.
+- **React Native** - For building the mobile application.
+- **Socket.IO** - For real-time communication between users.
+- **Expo** - Development framework to build the React Native app quickly.
+- **Node.js** - For backend API to handle user authentication and Socket.IO server.
+- **Express.js** - Backend framework to handle routing and user authentication.
 
-### Installation
+## Setup and Installation
 
-1. Clone this repository to your local machine:
-
+1. **Clone the Repository**
    ```bash
-   https://github.com/Alok-Pal/Chat-Application.git
-   ```
-2. Then do npm install to download all of the required dependencies.
+   git clone https://github.com/yourusername/react-native-chat-app.git
+   cd react-native-chat-app
